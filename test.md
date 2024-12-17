@@ -8,7 +8,7 @@
 
 Una de las cosas principales son los enlaces a secciones.  [Aquí ponemos un texto que nos va a llevar a la sección Solucion](#Solucion)
 
-Aquí tenemos la necesidad de escribir esto en     __negrita__     .
+Aquí tenemos la necesidad de escribir esto en \ \ \ \ \ \     __negrita__ \ \ \ \ \ \    .
 
 En otras ocasiones tendremos la necesidad de escribir en       _cursiva_      .
 
