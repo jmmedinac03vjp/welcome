@@ -16,16 +16,16 @@ Cuando necesitamos visualizar una imagen, en nuestro caso va a estar en la ruta 
 También son de mucha utilidad las reglas horizaontales para separar secciones, como la de la siguiente línea:
 ___
 #### Listas y formatos de letra (Esto es una cabecera 4)
-Hacer listas, tanto ordenadas, como no ordenadas, es muy sencillo. En esta ocasión haremos una lista no ordenada con los algunos de los diferentes formatos de letra que tenemos:
+Hacer listas, tanto ordenadas, como no ordenadas, es muy sencillo. En esta ocasión haremos una lista no ordenada con algunos de los diferentes formatos de letra que tenemos:
 + Aquí tenemos la necesidad de escribir esto en __negrita__.
-+ En otras ocasiones tendremos la necesidad de escribir en       _cursiva_.
-+ Y otras más necesitaremos tener la letra en ___negrita y en cursiva___.
-
++ En otras ocasiones tendremos la necesidad de escribir en _cursiva_.
++ Y otras más, necesitaremos tener la letra en ___negrita y en cursiva___.
 
 #### Etiquetas y bloques de código (Esto es una cabecera 4)
-Nos puede ser útil colocar etiquetas... en esta ocasión tento una etiqueta con nombre ``Examen de PPS``
+Nos puede ser útil colocar etiquetas... en esta ocasión tengo una etiqueta con nombre ``Examen de PPS``
 
 Pero si lo que nos interesa es un bloque de código donde poner varias líneas, realizamos:
+
 ~~~
 jmmedinac03@jmmedinac03-victus:~$ docker-compose logs -f
 ERROR: 
