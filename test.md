@@ -30,6 +30,7 @@ Y aquí una lista ordenada:
 5. Y éste por ser el más pequeñíto....
 
 #### Etiquetas y bloques de código (Esto es una cabecera 4)
+
 Nos puede ser útil colocar etiquetas... en esta ocasión tengo una etiqueta con nombre ``Examen de PPS``
 
 Pero si lo que nos interesa es un bloque de código donde poner varias líneas, realizamos:
@@ -47,6 +48,8 @@ jmmedinac03@jmmedinac03-victus:~$
 
 #### Final 
 (La linea de arriba es una cabecera 4) 
+
 Pues ya se acabó este ejercicio, espero que haya sido llevadero.
+
 En total deberías de haber identificado y colocado el código de markdown de 15 elementos diferentes. 
 
