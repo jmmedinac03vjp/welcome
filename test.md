@@ -5,7 +5,7 @@
 ###    Prueba Objetiva Unidad 0 Herramientas necesarias para PPS (Esto es una cabecera 3)
 
 
-#### Enlaces, hipervínculos, etc... (Esto es una cabecera 4)#### 
+#### Enlaces, hipervínculos, etc...(Esto es una cabecera 4)
 
 Una de las cosas principales son los enlaces a secciones.  [Aquí ponemos un texto que nos va a llevar a la sección Final](#Final)
 
@@ -37,5 +37,6 @@ ERROR:
 jmmedinac03@jmmedinac03-victus:~$ 
 ~~~
 
-#### Final #### (Esto es una cabecera 4) 
+#### Final 
+(La linea de arriba es una cabecera 4) 
 Pues ya se acabó este ejercicio, espero que haya sido llevadero.
