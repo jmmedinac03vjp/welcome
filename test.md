@@ -16,12 +16,13 @@ Cuando necesitamos visualizar una imagen, en nuestro caso va a estar en la ruta 
 También son de mucha utilidad las reglas horizaontales para separar secciones, como la de la siguiente línea:
 ___
 #### Listas y formatos de letra (Esto es una cabecera 4)
-Hacer listas, tanto ordenadas, como no ordenadas, es muy sencillo. En esta ocasión haremos una lista no ordenada con algunos de los diferentes formatos de letra que tenemos:
+Hacer listas, tanto ordenadas, como no ordenadas, es muy sencillo. 
+Aquí haremos una lista no ordenada con algunos de los diferentes formatos de letra que tenemos:
 + Aquí tenemos la necesidad de escribir esto en __negrita__.
 + En otras ocasiones tendremos la necesidad de escribir en _cursiva_.
 + Y otras más, necesitaremos tener la letra en ___negrita y en cursiva___.
 
-Crear listar ordenadas es también sencillo:
+Y aquí una lista ordenada:
 1. Éste fue a por leña
 2. Este encontró un huevo
 3. Éste lo frió
