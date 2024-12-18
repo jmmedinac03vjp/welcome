@@ -36,14 +36,14 @@ Nos puede ser útil colocar etiquetas... en esta ocasión tengo una etiqueta con
 Pero si lo que nos interesa es un bloque de código donde poner varias líneas, realizamos:
 
 ~~~
-jmmedinac03@jmmedinac03-victus:~$ docker-compose logs -f
+usuario03@ordenador03-victus:~$ docker-compose logs -f
 ERROR: 
         Can't find a suitable configuration file in this directory or any
         parent. Are you in the right directory?
 
         Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
         
-jmmedinac03@jmmedinac03-victus:~$ 
+usuario03@ordenador03-victus:~$ 
 ~~~
 
 #### Final 
