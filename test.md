@@ -4,21 +4,39 @@
 
 ###    Prueba Objetiva Unidad 0 Herramientas necesarias para PPS (Esto es una cabecera 3)
 
-___
 
-#### Enunciados ####
+#### Enlaces, hipervínculos, etc... (Esto es una cabecera 4)#### 
 
 Una de las cosas principales son los enlaces a secciones.  [Aquí ponemos un texto que nos va a llevar a la sección Solucion](#Solucion)
 
-Aquí tenemos la necesidad de escribir esto en \ \ \ \ \ \     __negrita__ \ \ \ \ \ \    .
+Para insertar un hipervínculo a la dirección: https://github.com/jmmedinac03vjp sobre un determinado texto hacemos los siguiente: [En este texto está el hipervínculo](https://github.com/jmmedinac03vjp)
 
-En otras ocasiones tendremos la necesidad de escribir en       _cursiva_      .
+Cuando necesitamos visualizar una imagen, en nuestro caso va a estar en la ruto img/jose.jpg hacemos:  ![](img/jose.jpg) 
 
-Y otras más necesitaremos tener la letra en      ___negrita y en cursiva___      .
+También son de mucha utilidad las reglas horizaontales para separar secciones, como la de la siguiente línea:
+___
+#### Listas y formatos de letra (Esto es una cabecera 4)####
+Hacer listas, tanto ordenadas, como no ordenadas, es muy sencillo. En esta ocasión haremos una lista no ordenada con los algunos de los diferentes formatos de letra que tenemos:
++ Aquí tenemos la necesidad de escribir esto en \ \ \ \ \ \     __negrita__ \ \ \ \ \ \    .
++ En otras ocasiones tendremos la necesidad de escribir en       _cursiva_      .
++ Y otras más necesitaremos tener la letra en      ___negrita y en cursiva___      .
 
-Cuando necesitamos visualizar una imagen ![](img/jose.jpg) 
 
+#### Etiquetas y bloques de código (Esto es una cabecera 4)####
 Nos puede ser útil colocar etiquetas... en esta ocasión tento una etiqueta con nombre ``Examen de PPS``
+
+Pero si lo que nos interesa es un bloque de código donde poner varias líneas, realizamos:
+~~~
+jmmedinac03@jmmedinac03-victus:~$ docker-compose logs -f
+ERROR: 
+        Can't find a suitable configuration file in this directory or any
+        parent. Are you in the right directory?
+
+        Supported filenames: docker-compose.yml, docker-compose.yaml, compose.yml, compose.yaml
+        
+jmmedinac03@jmmedinac03-victus:~$ 
+~~~
+
 
 #### Solucion #### 
 La línea de arriba es una cabecera 4
