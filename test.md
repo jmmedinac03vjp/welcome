@@ -21,6 +21,13 @@ Hacer listas, tanto ordenadas, como no ordenadas, es muy sencillo. En esta ocasi
 + En otras ocasiones tendremos la necesidad de escribir en _cursiva_.
 + Y otras más, necesitaremos tener la letra en ___negrita y en cursiva___.
 
+Crear listar ordenadas es también sencillo:
+1. Éste fue a por leña
+2. Este encontró un huevo
+3. Éste lo frió
+4. Éste le echó la sal
+5. Y éste por ser el más pequeñíto....
+
 #### Etiquetas y bloques de código (Esto es una cabecera 4)
 Nos puede ser útil colocar etiquetas... en esta ocasión tengo una etiqueta con nombre ``Examen de PPS``
 
@@ -40,3 +47,5 @@ jmmedinac03@jmmedinac03-victus:~$
 #### Final 
 (La linea de arriba es una cabecera 4) 
 Pues ya se acabó este ejercicio, espero que haya sido llevadero.
+En total deberías de haber identificado y colocado el código de markdown de 15 elementos diferentes. 
+
