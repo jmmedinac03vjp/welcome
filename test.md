@@ -9,7 +9,7 @@
 
 Una de las cosas principales son los enlaces a secciones.  [Aquí ponemos un texto que nos va a llevar a la sección Solucion](#Solucion)
 
-Para insertar un hipervínculo a la dirección: https://github.com/jmmedinac03vjp sobre un determinado texto hacemos los siguiente: [En este texto está el hipervínculo](https://github.com/jmmedinac03vjp)
+Para insertar un hipervínculo a la dirección: sobre un determinado texto hacemos los siguiente: [En este texto está el hipervínculo](https://github.com/jmmedinac03vjp)
 
 Cuando necesitamos visualizar una imagen, en nuestro caso va a estar en la ruto img/jose.jpg hacemos:  ![](img/jose.jpg) 
 
