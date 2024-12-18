@@ -11,15 +11,15 @@ Una de las cosas principales son los enlaces a secciones.  [Aquí ponemos un tex
 
 Para insertar un hipervínculo a la dirección github.com/jmmedinac03vjp sobre un determinado texto hacemos los siguiente: [En este texto está el hipervínculo](https://github.com/jmmedinac03vjp)
 
-Cuando necesitamos visualizar una imagen, en nuestro caso va a estar en la ruto img/jose.jpg hacemos:  ![](img/jose.jpg) 
+Cuando necesitamos visualizar una imagen, en nuestro caso va a estar en la ruta img/jose.jpg hacemos:  ![](img/jose.jpg) 
 
 También son de mucha utilidad las reglas horizaontales para separar secciones, como la de la siguiente línea:
 ___
 #### Listas y formatos de letra (Esto es una cabecera 4)####
 Hacer listas, tanto ordenadas, como no ordenadas, es muy sencillo. En esta ocasión haremos una lista no ordenada con los algunos de los diferentes formatos de letra que tenemos:
-+ Aquí tenemos la necesidad de escribir esto en __negrita__ .
-+ En otras ocasiones tendremos la necesidad de escribir en       _cursiva_      .
-+ Y otras más necesitaremos tener la letra en      ___negrita y en cursiva___      .
++ Aquí tenemos la necesidad de escribir esto en __negrita__.
++ En otras ocasiones tendremos la necesidad de escribir en       _cursiva_.
++ Y otras más necesitaremos tener la letra en ___negrita y en cursiva___.
 
 
 #### Etiquetas y bloques de código (Esto es una cabecera 4)####
@@ -37,7 +37,6 @@ ERROR:
 jmmedinac03@jmmedinac03-victus:~$ 
 ~~~
 
-
 #### Solucion #### 
 La línea de arriba es una cabecera 4
-
+Pues ya se acabó este ejercicio, espero que haya sido llevadero.
